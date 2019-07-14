@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "mustache config.json schedule.stache > schedule.html",
-    "test": "mustache test/sample-input.json schedule.stache > test/output.html && cmp --silent test/output.html test/target-output.html || echo 'test failed'"
+    "genTest": "mustache test/sample-input.json schedule.stache > test/output.html",
+    "compare": "cmp --silent test/output.html test/target-output.html",
+		"test": "npm run genTest && npm run compare || echo 'test failed'"
   },
   "author": "",
   "license": "ISC",
