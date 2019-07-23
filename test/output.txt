@@ -1,90 +1,142 @@
+<!doctype html>
+
+
+<html>
+
+<h1>Workshop Schedule</h1>
+<table>
+	<th>
+		<td>Workshops</td>
+		<td>#1</td>
+		<td>#2</td>
+		<td>#3</td>
+		<td>#4</td>
+		<td>#5</td>
+	</th>
+	<tr>
+		<td>Campfire Prep</td>
+		<td>Zurg & Big Bad Wolf</td>
+		<td>Gaston & Ursula</td>
+		<td>Scar & Captain Hook</td>
+		<td>Jafar & Scar</td>
+		<td>Cruella De Vil & Hades</td>
+	</tr>
+	<tr>
+		<td>Creek Walk / Archery</td>
+		<td>Jafar & Ursula</td>
+		<td>Hades & Monsters</td>
+		<td>Cruella De Vil & Big Bad Wolf</td>
+		<td>Gaston & Scar</td>
+		<td>Zurg & Captain Hook</td>
+	</tr>
+	<tr>
+		<td>Ice Cream & Games / Outdoor Cooking</td>
+		<td>Hades & Scar</td>
+		<td>Jafar & Captain Hook</td>
+		<td>Monsters & Zurg</td>
+		<td>Cruella De Vil & Ursula</td>
+		<td>Gaston & Big Bad Wolf</td>
+	</tr>
+	<tr>
+		<td>Fun in the Forest</td>
+		<td>Gaston & Monsters</td>
+		<td>Cruella De Vil & Zurg</td>
+		<td>Hades & Ursula</td>
+		<td>Big Bad Wolf & Captain Hook</td>
+		<td>Jafar & Scar</td>
+	</tr>
+	<tr>
+		<td>Nature Crafts</td>
+		<td>Cruella De Vil & Captain Hook</td>
+		<td>Big Bad Wolf & Scar</td>
+		<td>Gaston & Jafar</td>
+		<td>Hades & Zurg</td>
+		<td>Monsters & Ursula</td>
+	</tr>
+</table>
+
+
+<pre>
 SUNDAY
 
 12:00	Campers depart from Castro Valley
 
-
-
-
 ARRIVAL
 Welcome Assembly
 Tribe Assignments
-Camp Policy Statements
-Unpack
-Hike by Tribe
-Campfire Preparation
+Unpack / Bunk Tags
+First Event: Tribe Meeting
 
 
-
-5:00	KP - (Foxes & Snakes)
-5:15	Flag lowering - Meet at flagpole 
-5:30	Dinner - (Tribe Dinner)
-7:30	Campfire - (Owls & Wolves)
-	Get Aquainted 
-	Game Night
+4:45	Chaperone Meeting
+5:30	KP - (Captain Hook & Jafar)
+5:45	Flag lowering @ Flagpole
+6:00	Dinner - (Tribe Dinner)
+8:00	Welcome Campfire - (Staff)
+		Carnival
 10:00	End of Evening
 10:30	Lights out for the first day at camp
+		(Put out white flag if you want to be woken early for hike)
 
 
 MONDAY
 
-
 6:00	Early morning hike or swim
-	(leave a white flag by your bed if you want to be called)
+		(leave a white flag by your bed if you want to be called)
 6:30	Staff Showers 
 7:00	Reveille 
-7:30	KP - (Bats & Owls)
-7:45	Flag raising ceremony
+7:30	KP - (Gaston & Hades)
+7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - (Tribe Breakfast)
-	Campfire prep time - (Eagles & Mt. Lions)
-	John Duty - (Bears & Raccoons) 
-10:00	Fire Drill (Hand out t-shirts after)
-10:30	Picture time - Wear your clean new camp t-shirt
-11:00	Workshop #1 - (See Schedule)
-12:30	KP - (Bats & Owls)
-12:45	Lunch - (Twin/Triplet Lunch)
-2:15	Quiet time
-3:00	Tribe Meeting
-4:00	Crazy Track Meet - dining hall
-5:15	Free time
-6:30	KP - (Bats & Owls)
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner
-	Free time until campfire
-8:30	Campfire - (Eagles & Mt. Lions)
-	Movie Night
-10:30	End of Evening
-10:45	Lights out
+		Campfire prep time - (Big Bad Wolf & Zurg)
+		John Duty - (Scar & Monsters) 
+9:30	Fire Drill (Hand out t-shirts after)
+10:00	Workshop #1 - (See Schedule)
+11:45	KP - (Gaston & Hades)
+12:00	Lunch - (Twin/Triplet Lunch)
+1:30	Quiet time
+2:30	Tribe Meeting - work on chant, scavenger hunt, boats, preview water carnival
+3:30	Free time - Swim, Crafts, Games on Deck
+5:00	Picture - Wear your clean new camp shirt!
+5:30	KP - (Gaston & Hades)
+5:45	Flag lowering @ Flagpole
+6:00	Dinner
+		Free time until campfire
+7:30	Campfire - (Big Bad Wolf & Zurg)
+		Camp Dance
+10:00	End of Evening
+10:30	Lights out
+	(Leave out white flag if you want to be woken early for hike)
 
 
 TUESDAY - VISITOR DAY
 
 
-6:00	Early morning hike or swim
-	(leave a white flag by your bed if you want to be called)
-6:30	Staff Showers 
-7:00	Reveille 
-7:45	KP - (Eagles & Wolves)
-8:00	Flag raising ceremony
+6:15	Early morning hike or swim
+(Leave out white flag if you want to be woken early for hike)
+6:45	Staff Showers 
+7:15	Reveille 
+7:45	KP - (Big Bad Wolf & Cruella De Vil)
+8:00	Flag raising ceremony @ Flagpole
 8:15	Breakfast - (Tribe Breakfast) 
-	John Duty - (Mt. Lions & Wildcats)
-	Campfire prep time - (Bears & Foxes)
-	Meet your tribe for workshops
+		John Duty - (Zurg & Hades)
+		Campfire prep time - (Gaston & Ursula)
+		Meet your tribe for workshops
 10:00	Workshop #2 - (See Schedule)
-11:30	KP - (Eagles & Wolves)
-12:00	Lunch 
-2:00	Quiet time
-3:00	Tribe meeting - (Bring bathing suit)
-4:00	Water Carnival - Pool
-	Free time
-6:30	KP - (Eagles & Wolves)
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner
-	Free time until campfire
-8:30	Campfire - (Bears & Foxes)
-	Night Hikes and Stargazing
-	Music and dancing
-10:30	End of Evening
-11:00	Lights out
+11:45	KP - (Zurg & Hades)
+12:00	Lunch - Visitor Lunch
+1:30	Quiet time - Visitors Tour Camp
+2:30	Tribe meeting - Carnival plans, and preview track meet
+3:30	Water Carnival @ Pool
+		Free swim time
+5:30	KP - (Zurg & Hades)
+5:45	Flag lowering @ Flagpole
+6:00	Dinner - (Tribe Dinner)
+		Bunk time until campfire
+7:30	Campfire - (Gaston & Ursula)
+		Night Hikes and Activities
+10:00	End of Evening
+10:30	Lights out
 
 
 WEDNESDAY 
@@ -94,59 +146,57 @@ WEDNESDAY
 	(leave a white flag by your bed if you want to be called)
 6:30	Staff Showers 
 7:00	Reveille 
-7:45	KP - (Mt. Lions & Raccoons)
-8:00	Flag raising ceremony
-8:15	Breakfast - (Tribe Breakfast)
-	John Duty - (Snakes & Wolves)
-	Campfire prep - (Bats & Wildcats)
-9:45	Workshop #3 - (See Schedule)
-11:15	Workshop #4 - (See Schedule)
-12:45	KP - (Mt. Lions & Raccoons)
-1:00	Lunch - (Tribe Lunch)
-2:30	Quiet time
-3:30	Tribe meeting
-	Boat Building
-	Campfire prep
-4:30	Campfire - (Bats & Wildcats)
-	Free time
-	Prepare for Formal Night
-5:45	KP - (Staff Dinner)
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner - Formal Night
-8:30	Camp Talent Show
-	The Big Dance 
-10:30	End of Evening
-11:00	Lights out
+7:30	KP - (Scar & Ursula)
+7:45	Flag raising ceremony @ Flagpole
+8:00	Breakfast - (Tribe Breakfast)
+		John Duty - (Captain Hook & Hades)
+		Campfire prep - (Jafar & Monsters)
+9:15	Workshop #3 - (See Schedule)
+10:45	Workshop #4 - (See Schedule)
+12:15	KP - (Scar & Ursula)
+12:30	Lunch - (Tribe Lunch)
+1:30	Quiet time
+2:00	Tribe meeting
+2:30	Crazy Track Meet @ Dining Hall
+		Free time
+5:15	KP (Staff)
+5:45	Flag lowering @ Flagpole
+6:00	Dinner - Formal Night
+		Bunk time until campfire
+7:30	Camp Talent Show
+		The Big Dance 
+10:00	End of Evening
+10:30	Lights out
 
 
 THURSDAY
 
 
-6:00	Early morning hike or swim-(KILLER HIKE)
+6:15	Early morning hike or swim-(KILLER HIKE)
 	(leave a white flag by your bed if you want to be called)
 6:45	Staff Showers 
 7:15	Reveille 
-8:00	KP - (Bears & Wildcats)
-8:15	Flag raising ceremony
-8:30	Breakfast - Come as you are!!!
-	John Duty - (Foxes & Owls)
-	Campfire prep time - (Raccoons & Snakes)
-	Meet your tribe for workshops
-10:00	Workshop #5 - (See Schedule)
-11:45	Forest Retreat
-	KP - (Bears & Wildcats)
-	Tribes depart for Forest Retreat
-1:00	Lunch - at Forest Retreat
+7:30	KP - (Cruella De Vil & Monsters)
+7:45	Flag raising ceremony @ Flagpole
+8:00	Breakfast - Come as you are!!!
+		John Duty - (Jafar & Gaston)
+		Campfire prep time - (Captain Hook & Jafar)
+		Meet your tribe for workshops
+11:30	KP - (Cruella De Vil & Monsters)
+		Tribes depart for Forest Retreat
+12:45	Lunch - at Forest Retreat
 2:30	Quiet time
-3:30	Tribe meeting
-5:00	Free time
-6:30	KP - (Bears & Wildcats)
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner - (Scavanger Hunt Due)
-	Free time until campfire
-8:30	Campfire - (Raccoons & Snakes)
-	Friendship ceremony (at pool)
-	Music and dancing
+3:30	Tribe meeting - Finish scavenger hunt, friendship boat
+4:30	Scavenger hunt items due on deck
+		Free time
+5:15	Friendship boats due at pool
+5:30	KP - (Cruella De Vil & Monsters)
+5:45	Flag lowering @ Flagpole
+6:00	Dinner (Tribe dinner)
+		Bunk time until campfire
+7:30	Campfire - (Captain Hook & Jafar)
+		Friendship ceremony @ Flagpole (at pool)
+		Music and dancing
 10:00	End of Evening
 10:30	Lights out
 
@@ -155,25 +205,26 @@ THURSDAY
 FRIDAY
 
 
-6:00	Early morning hike or swim
+6:30	Early morning hike or swim
 	(leave a white flag by your bed if you want to be called)
-6:30	Staff Showers 
-7:00	Reveille 
-7:30	KP - (Foxes & Snakes)
-7:45	Flag raising ceremony
-8:00	Breakfast 
-	John Duty - (Bats & Eagles)
+7:00	Staff Showers 
+7:30	Reveille 
+8:15	KP - (Captain Hook & Jafar)
+8:30	Flag raising ceremony @ Flagpole
+8:45	Breakfast - Tribe Breakfast
+		John Duty - (Big Bad Wolf & Zurg)
+		Campfire prep time - (Hades & Cruella De Vil)
 9:15	Finish packing
-	Carry possessions to luggage trucks
-10:30	Closing Ceremony	
-11:45	KP - (Foxes & Snakes)
-12:00	Lunch
-1:00	Time to clean-up Las Posadas 4-H Camp
-2:00	Depart for home - Safe journey home 
-	and we look forward to seeing you 
-	again next year.
+		Carry possessions to luggage trucks
+11:00	Campfire (Hades & Cruella De Vil)	
+11:30	Closing Ceremony
+12:45	KP - (Captain Hook & Jafar)
+1:00	Lunch
+2:00	Time to clean-up Las Posadas 4-H Camp
+3:00	Depart for home!
 
-	Camp Staff clean-up
+		Camp Staff clean-up
 
+</pre>
 
-
+</html>

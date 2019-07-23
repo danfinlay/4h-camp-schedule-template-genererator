@@ -1,90 +1,218 @@
+<!doctype html>
+
+
+<html>
+	<title>4H Camp Schedule</title>
+	<style>
+		html, body {
+		font-family: sans-serif;
+		}
+
+		table {
+		border: 1px solid black;
+
+		}
+
+		td {
+		border: 1px solid black;
+		margin: 0px;
+		padding: 10px;
+		
+		}
+		tr { margin: 0px;}
+	</style>
+<head>
+
+</head>
+
+<body>
+
+<h1>Alameda County 4H Camp</h1>
+
+<h2>Workshop Schedule</h2>
+<table>
+	<th>
+		<td>#1</td>
+		<td>#2</td>
+		<td>#3</td>
+		<td>#4</td>
+		<td>#5</td>
+	</th>
+	<tr>
+		<td>Campfire Prep</td>
+		<td>{{tribe6}} & {{tribe5}}</td>
+		<td>{{tribe3}} & {{tribe10}}</td>
+		<td>{{tribe7}} & {{tribe1}}</td>
+		<td>{{tribe2}} & {{tribe7}}</td>
+		<td>{{tribe9}} & {{tribe4}}</td>
+	</tr>
+	<tr>
+		<td>Creek Walk / Archery</td>
+		<td>{{tribe2}} & {{tribe10}}</td>
+		<td>{{tribe4}} & {{tribe8}}</td>
+		<td>{{tribe9}} & {{tribe5}}</td>
+		<td>{{tribe3}} & {{tribe7}}</td>
+		<td>{{tribe6}} & {{tribe1}}</td>
+	</tr>
+	<tr>
+		<td>Ice Cream & Games / Outdoor Cooking</td>
+		<td>{{tribe4}} & {{tribe7}}</td>
+		<td>{{tribe2}} & {{tribe1}}</td>
+		<td>{{tribe8}} & {{tribe6}}</td>
+		<td>{{tribe9}} & {{tribe10}}</td>
+		<td>{{tribe3}} & {{tribe5}}</td>
+	</tr>
+	<tr>
+		<td>Fun in the Forest</td>
+		<td>{{tribe3}} & {{tribe8}}</td>
+		<td>{{tribe9}} & {{tribe6}}</td>
+		<td>{{tribe4}} & {{tribe10}}</td>
+		<td>{{tribe5}} & {{tribe1}}</td>
+		<td>{{tribe2}} & {{tribe7}}</td>
+	</tr>
+	<tr>
+		<td>Nature Crafts</td>
+		<td>{{tribe9}} & {{tribe1}}</td>
+		<td>{{tribe5}} & {{tribe7}}</td>
+		<td>{{tribe3}} & {{tribe2}}</td>
+		<td>{{tribe4}} & {{tribe6}}</td>
+		<td>{{tribe8}} & {{tribe10}}</td>
+	</tr>
+</table>
+
+
+
+<h2>Camp Duties</h2>
+<table>
+	<th>
+		<td>KP</td>
+		<td>John Duty</td>
+		<td>Campfire</td>
+	</th>
+
+	<tr>
+		<td>Sunday</td>
+		<td>{{tribe1}} & {{tribe2}}</td>
+		<td>Staff</td>
+		<td>Staff</td>
+	</tr>
+
+	<tr>
+		<td>Monday</td>
+		<td>{{tribe3}} & {{tribe4}}</td>
+		<td>{{tribe7}} & {{tribe8}}</td>
+		<td>{{tribe5}} & {{tribe6}}</td>
+	</td>
+
+	<tr>
+		<td>Tuesday</td>
+		<td>{{tribe5}} & {{tribe9}}</td>
+		<td>{{tribe6}} & {{tribe4}}</td>
+		<td>{{tribe3}} & {{tribe10}}</td>
+	</tr>
+	<tr>
+		<td>Wednesday</td>
+		<td>{{tribe6}} & {{tribe7}}</td>
+		<td>{{tribe1}} & {{tribe3}}</td>
+		<td>{{tribe2}} & {{tribe8}}</td>
+	</tr>
+		<td>Thursday</td>
+		<td>{{tribe10}} & {{tribe8}}</td>
+		<td>{{tribe2}} & {{tribe9}}</td>
+		<td>{{tribe1}} & {{tribe7}}</td>
+	</td>
+	<tr>
+		<td>Friday</td>
+		<td>{{tribe1}} & {{tribe2}}</td>
+		<td>{{tribe5}} & {{tribe10}}</td>
+		<td>{{tribe4}} & {{tribe9}}</td>
+	</tr>
+
+</table>
+
+
+
+<pre>
 SUNDAY
 
-12:00	Campers depart from {{departureLocation}}
-
-
-
+12:00	Campers depart from {{ departureLocation }}
 
 ARRIVAL
 Welcome Assembly
 Tribe Assignments
-Camp Policy Statements
-Unpack
-Hike by Tribe
-Campfire Preparation
+Unpack / Bunk Tags
+First Event: Tribe Meeting
 
 
-
-5:00	KP - ({{ tribe1 }} & {{ tribe2 }})
-5:15	Flag lowering - Meet at flagpole 
-5:30	Dinner - (Tribe Dinner)
-7:30	Campfire - ({{ tribe3 }} & {{ tribe4 }})
-	Get Aquainted 
-	Game Night
+4:45	Chaperone Meeting
+5:30	KP - ({{ tribe1 }} & {{ tribe2 }})
+5:45	Flag lowering @ Flagpole
+6:00	Dinner - (Tribe Dinner)
+8:00	Welcome Campfire - (Staff)
+		Carnival
 10:00	End of Evening
 10:30	Lights out for the first day at camp
+		(Put out white flag if you want to be woken early for hike)
 
 
 MONDAY
 
-
 6:00	Early morning hike or swim
-	(leave a white flag by your bed if you want to be called)
+		(leave a white flag by your bed if you want to be called)
 6:30	Staff Showers 
 7:00	Reveille 
-7:30	KP - ({{ tribe5 }} & {{ tribe3 }})
-7:45	Flag raising ceremony
+7:30	KP - ({{ tribe3 }} & {{ tribe4 }})
+7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - (Tribe Breakfast)
-	Campfire prep time - ({{ tribe6 }} & {{ tribe7 }})
-	John Duty - ({{ tribe9 }} & {{ tribe10 }}) 
-10:00	Fire Drill (Hand out t-shirts after)
-10:30	Picture time - Wear your clean new camp t-shirt
-11:00	Workshop #1 - (See Schedule)
-12:30	KP - ({{ tribe5 }} & {{ tribe3 }})
-12:45	Lunch - (Twin/Triplet Lunch)
-2:15	Quiet time
-3:00	Tribe Meeting
-4:00	Crazy Track Meet - dining hall
-5:15	Free time
-6:30	KP - ({{ tribe5 }} & {{ tribe3 }})
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner
-	Free time until campfire
-8:30	Campfire - ({{ tribe6 }} & {{ tribe7 }})
-	Movie Night
-10:30	End of Evening
-10:45	Lights out
+		Campfire prep time - ({{ tribe5 }} & {{ tribe6 }})
+		John Duty - ({{ tribe7 }} & {{ tribe8 }}) 
+9:30	Fire Drill (Hand out t-shirts after)
+10:00	Workshop #1 - (See Schedule)
+11:45	KP - ({{ tribe3 }} & {{ tribe4 }})
+12:00	Lunch - (Twin/Triplet Lunch)
+1:30	Quiet time
+2:30	Tribe Meeting - work on chant, scavenger hunt, boats, preview water carnival
+3:30	Free time - Swim, Crafts, Games on Deck
+5:00	Picture - Wear your clean new camp shirt!
+5:30	KP - ({{ tribe3 }} & {{ tribe4 }})
+5:45	Flag lowering @ Flagpole
+6:00	Dinner
+		Free time until campfire
+7:30	Campfire - ({{ tribe5 }} & {{ tribe6 }})
+		Camp Dance
+10:00	End of Evening
+10:30	Lights out
+	(Leave out white flag if you want to be woken early for hike)
 
 
 TUESDAY - VISITOR DAY
 
 
-6:00	Early morning hike or swim
-	(leave a white flag by your bed if you want to be called)
-6:30	Staff Showers 
-7:00	Reveille 
-7:45	KP - ({{ tribe6 }} & {{ tribe4 }})
-8:00	Flag raising ceremony
+6:15	Early morning hike or swim
+(Leave out white flag if you want to be woken early for hike)
+6:45	Staff Showers 
+7:15	Reveille 
+7:45	KP - ({{ tribe5 }} & {{ tribe9 }})
+8:00	Flag raising ceremony @ Flagpole
 8:15	Breakfast - (Tribe Breakfast) 
-	John Duty - ({{ tribe7 }} & {{ tribe8 }})
-	Campfire prep time - ({{ tribe9 }} & {{tribe1}})
-	Meet your tribe for workshops
+		John Duty - ({{ tribe6 }} & {{ tribe4 }})
+		Campfire prep time - ({{ tribe3 }} & {{ tribe10 }})
+		Meet your tribe for workshops
 10:00	Workshop #2 - (See Schedule)
-11:30	KP - ({{ tribe6 }} & {{ tribe4 }})
-12:00	Lunch 
-2:00	Quiet time
-3:00	Tribe meeting - (Bring bathing suit)
-4:00	Water Carnival - Pool
-	Free time
-6:30	KP - ({{ tribe6 }} & {{ tribe4 }})
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner
-	Free time until campfire
-8:30	Campfire - ({{ tribe9 }} & {{tribe1}})
-	Night Hikes and Stargazing
-	Music and dancing
-10:30	End of Evening
-11:00	Lights out
+11:45	KP - ({{ tribe5 }} & {{ tribe9 }})
+12:00	Lunch - Visitor Lunch
+1:30	Quiet time - Visitors Tour Camp
+2:30	Tribe meeting - Carnival plans, and preview track meet
+3:30	Water Carnival @ Pool
+		Free swim time
+5:30	KP - ({{ tribe5 }} & {{ tribe9 }})
+5:45	Flag lowering @ Flagpole
+6:00	Dinner - (Tribe Dinner)
+		Bunk time until campfire
+7:30	Campfire - ({{ tribe3 }} & {{tribe10}})
+		Night Hikes and Activities
+10:00	End of Evening
+10:30	Lights out
 
 
 WEDNESDAY 
@@ -94,59 +222,57 @@ WEDNESDAY
 	(leave a white flag by your bed if you want to be called)
 6:30	Staff Showers 
 7:00	Reveille 
-7:45	KP - ({{ tribe7 }} & {{ tribe10 }})
-8:00	Flag raising ceremony
-8:15	Breakfast - (Tribe Breakfast)
-	John Duty - ({{ tribe2 }} & {{ tribe4 }})
-	Campfire prep - ({{ tribe5 }} & {{ tribe8 }})
-9:45	Workshop #3 - (See Schedule)
-11:15	Workshop #4 - (See Schedule)
-12:45	KP - ({{ tribe7 }} & {{ tribe10 }})
-1:00	Lunch - (Tribe Lunch)
-2:30	Quiet time
-3:30	Tribe meeting
-	Boat Building
-	Campfire prep
-4:30	Campfire - ({{ tribe5 }} & {{ tribe8 }})
-	Free time
-	Prepare for Formal Night
-5:45	KP - (Staff Dinner)
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner - Formal Night
-8:30	Camp Talent Show
-	The Big Dance 
-10:30	End of Evening
-11:00	Lights out
+7:30	KP - ({{ tribe6 }} & {{ tribe7 }})
+7:45	Flag raising ceremony @ Flagpole
+8:00	Breakfast - (Tribe Breakfast)
+		John Duty - ({{ tribe1 }} & {{ tribe3 }})
+		Campfire prep - ({{ tribe2 }} & {{ tribe8 }})
+9:15	Workshop #3 - (See Schedule)
+10:45	Workshop #4 - (See Schedule)
+12:15	KP - ({{ tribe6 }} & {{ tribe7 }})
+12:30	Lunch - (Tribe Lunch)
+1:30	Quiet time
+2:00	Tribe meeting
+2:30	Crazy Track Meet @ Dining Hall
+		Free time
+5:15	KP (Staff)
+5:45	Flag lowering @ Flagpole
+6:00	Dinner - Formal Night
+		Bunk time until campfire
+7:30	Campfire ({{tribe2}} & {{tribe8}})
+		The Big Dance 
+10:00	End of Evening
+10:30	Lights out
 
 
 THURSDAY
 
 
-6:00	Early morning hike or swim-(KILLER HIKE)
+6:15	Early morning hike or swim-(KILLER HIKE)
 	(leave a white flag by your bed if you want to be called)
 6:45	Staff Showers 
 7:15	Reveille 
-8:00	KP - ({{ tribe9 }} & {{ tribe8 }})
-8:15	Flag raising ceremony
-8:30	Breakfast - Come as you are!!!
-	John Duty - ({{tribe1}} & {{ tribe3 }})
-	Campfire prep time - ({{ tribe10 }} & {{ tribe2 }})
-	Meet your tribe for workshops
-10:00	Workshop #5 - (See Schedule)
-11:45	Forest Retreat
-	KP - ({{ tribe9 }} & {{ tribe8 }})
-	Tribes depart for Forest Retreat
-1:00	Lunch - at Forest Retreat
+7:30	KP - ({{ tribe10 }} & {{ tribe8 }})
+7:45	Flag raising ceremony @ Flagpole
+8:00	Breakfast - Come as you are!!!
+		John Duty - ({{ tribe2 }} & {{ tribe9 }})
+		Campfire prep time - ({{ tribe1 }} & {{ tribe7 }})
+		Meet your tribe for workshops
+11:30	KP - ({{ tribe10 }} & {{ tribe8 }})
+		Tribes depart for Forest Retreat
+12:45	Lunch - at Forest Retreat
 2:30	Quiet time
-3:30	Tribe meeting
-5:00	Free time
-6:30	KP - ({{ tribe9 }} & {{ tribe8 }})
-6:45	Flag lowering - Meet at flagpole
-7:00	Dinner - (Scavanger Hunt Due)
-	Free time until campfire
-8:30	Campfire - ({{ tribe10 }} & {{ tribe2 }})
-	Friendship ceremony (at pool)
-	Music and dancing
+3:30	Tribe meeting - Finish scavenger hunt, friendship boat
+4:30	Scavenger hunt items due on deck
+		Free time
+5:15	Friendship boats due at pool
+5:30	KP - ({{ tribe10 }} & {{ tribe8 }})
+5:45	Flag lowering @ Flagpole
+6:00	Dinner (Tribe dinner)
+		Bunk time until campfire
+7:30	Campfire - ({{ tribe1 }} & {{ tribe7 }})
+		Friendship ceremony @ Flagpole (at pool)
+		Music and dancing
 10:00	End of Evening
 10:30	Lights out
 
@@ -155,25 +281,26 @@ THURSDAY
 FRIDAY
 
 
-6:00	Early morning hike or swim
+6:30	Early morning hike or swim
 	(leave a white flag by your bed if you want to be called)
-6:30	Staff Showers 
-7:00	Reveille 
-7:30	KP - ({{tribe1}} & {{ tribe2 }})
-7:45	Flag raising ceremony
-8:00	Breakfast 
-	John Duty - ({{ tribe5 }} & {{ tribe6 }})
+7:00	Staff Showers 
+7:30	Reveille 
+8:15	KP - ({{tribe1}} & {{ tribe2 }})
+8:30	Flag raising ceremony @ Flagpole
+8:45	Breakfast - Tribe Breakfast
+		John Duty - ({{ tribe5 }} & {{ tribe10 }})
+		Campfire prep time - ({{tribe4}} & {{tribe9}})
 9:15	Finish packing
-	Carry possessions to luggage trucks
-10:30	Closing Ceremony	
-11:45	KP - ({{tribe1}} & {{ tribe2 }})
-12:00	Lunch
-1:00	Time to clean-up Las Posadas 4-H Camp
-2:00	Depart for home - Safe journey home 
-	and we look forward to seeing you 
-	again next year.
+		Carry possessions to luggage trucks
+11:00	Campfire ({{ tribe4 }} & {{ tribe9 }})	
+11:30	Closing Ceremony
+12:45	KP - ({{tribe1}} & {{ tribe2 }})
+1:00	Lunch
+2:00	Time to clean-up Las Posadas 4-H Camp
+3:00	Depart for home!
 
-	Camp Staff clean-up
+		Camp Staff clean-up
 
-
-
+</pre>
+</body>
+</html>

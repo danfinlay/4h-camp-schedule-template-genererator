@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "mustache config.json schedule.stache > schedule.txt",
-    "genTest": "mustache test/sample-input.json schedule.stache > test/output.txt",
-    "compare": "cmp --silent test/output.txt test/target-output.txt",
+    "start": "mustache config.json schedule.stache > schedule.html",
+    "genTest": "mustache test/sample-input.json schedule.stache > test/output.html",
+    "compare": "cmp --silent test/output.html test/target-output.html",
 		"test": "npm run genTest && npm run compare || echo 'test failed'"
   },
   "author": "",
