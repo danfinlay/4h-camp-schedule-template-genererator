@@ -152,20 +152,20 @@ First Event: Tribe Meeting
 		Carnival
 10:00	End of Evening
 10:30	Lights out for the first day at camp
-		(Put out white flag if you want to be woken early for hike)
+	(leave a white flag--like a sock--by your bed if you want to be woken for early morning hike or swim)
 
 
 MONDAY
 
 6:00	Early morning hike or swim
-		(leave a white flag by your bed if you want to be called)
+	(leave a white flag by your bed if you want to be woken)
 6:30	Staff Showers 
 7:00	Reveille 
 7:30	KP - ({{ tribe3 }} & {{ tribe4 }})
 7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - (Tribe Breakfast)
-		Campfire prep time - ({{ tribe5 }} & {{ tribe6 }})
 		John Duty - ({{ tribe7 }} & {{ tribe8 }}) 
+		Campfire prep time - ({{ tribe5 }} & {{ tribe6 }})
 9:30	Fire Drill (Hand out t-shirts after)
 10:00	Workshop #1 - (See Schedule)
 11:45	KP - ({{ tribe3 }} & {{ tribe4 }})
@@ -177,19 +177,19 @@ MONDAY
 5:30	KP - ({{ tribe3 }} & {{ tribe4 }})
 5:45	Flag lowering @ Flagpole
 6:00	Dinner
-		Free time until campfire
+		Bunk time until campfire
 7:30	Campfire - ({{ tribe5 }} & {{ tribe6 }})
 		Camp Dance
 10:00	End of Evening
 10:30	Lights out
-	(Leave out white flag if you want to be woken early for hike)
+	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
 
 
 TUESDAY - VISITOR DAY
 
 
 6:15	Early morning hike or swim
-(Leave out white flag if you want to be woken early for hike)
+	(leave a white flag by your bed if you want to be woken)
 6:45	Staff Showers 
 7:15	Reveille 
 7:45	KP - ({{ tribe5 }} & {{ tribe9 }})
@@ -213,20 +213,22 @@ TUESDAY - VISITOR DAY
 		Night Hikes and Activities
 10:00	End of Evening
 10:30	Lights out
+	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
 
 
 WEDNESDAY 
 
 
 6:00	Early morning hike or swim
-	(leave a white flag by your bed if you want to be called)
+	(leave a white flag by your bed if you want to be woken)
 6:30	Staff Showers 
 7:00	Reveille 
 7:30	KP - ({{ tribe6 }} & {{ tribe7 }})
 7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - (Tribe Breakfast)
 		John Duty - ({{ tribe1 }} & {{ tribe3 }})
-		Campfire prep - ({{ tribe2 }} & {{ tribe8 }})
+		Campfire prep time - ({{ tribe2 }} & {{ tribe8 }})
+		Meet your tribe for workshops
 9:15	Workshop #3 - (See Schedule)
 10:45	Workshop #4 - (See Schedule)
 12:15	KP - ({{ tribe6 }} & {{ tribe7 }})
@@ -243,13 +245,14 @@ WEDNESDAY
 		The Big Dance 
 10:00	End of Evening
 10:30	Lights out
+	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
 
 
 THURSDAY
 
 
-6:15	Early morning hike or swim-(KILLER HIKE)
-	(leave a white flag by your bed if you want to be called)
+6:15	Early morning hike (KILLER HIKE) or swim
+	(leave a white flag by your bed if you want to be woken)
 6:45	Staff Showers 
 7:15	Reveille 
 7:30	KP - ({{ tribe10 }} & {{ tribe8 }})
@@ -260,7 +263,7 @@ THURSDAY
 		Meet your tribe for workshops
 11:30	KP - ({{ tribe10 }} & {{ tribe8 }})
 		Tribes depart for Forest Retreat
-12:45	Lunch - at Forest Retreat
+12:45	Lunch @ Forest Retreat
 2:30	Quiet time
 3:30	Tribe meeting - Finish scavenger hunt, friendship boat
 4:30	Scavenger hunt items due on deck
@@ -271,10 +274,11 @@ THURSDAY
 6:00	Dinner (Tribe dinner)
 		Bunk time until campfire
 7:30	Campfire - ({{ tribe1 }} & {{ tribe7 }})
-		Friendship ceremony @ Flagpole (at pool)
+		Friendship ceremony @ Pool
 		Music and dancing
 10:00	End of Evening
 10:30	Lights out
+	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
 
 
 
@@ -282,12 +286,12 @@ FRIDAY
 
 
 6:30	Early morning hike or swim
-	(leave a white flag by your bed if you want to be called)
+	(leave a white flag by your bed if you want to be woken)
 7:00	Staff Showers 
 7:30	Reveille 
 8:15	KP - ({{tribe1}} & {{ tribe2 }})
 8:30	Flag raising ceremony @ Flagpole
-8:45	Breakfast - Tribe Breakfast
+8:45	Breakfast - (Tribe Breakfast)
 		John Duty - ({{ tribe5 }} & {{ tribe10 }})
 		Campfire prep time - ({{tribe4}} & {{tribe9}})
 9:15	Finish packing
