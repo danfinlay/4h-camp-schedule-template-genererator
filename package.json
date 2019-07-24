@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "mustache config.json schedule.stache > schedule.html",
+    "start": "rm schedule.html && mustache config.json schedule.stache > schedule.html",
     "genTest": "mustache test/sample-input.json schedule.stache > test/output.html",
     "compare": "cmp --silent test/output.html test/target-output.html",
 		"test": "npm run genTest && npm run compare || echo 'test failed'"

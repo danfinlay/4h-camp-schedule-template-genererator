@@ -4,8 +4,9 @@
 <html>
 	<title>4H Camp Schedule</title>
 	<style>
-		html, body {
-		font-family: sans-serif;
+		html, body, pre {
+		font-family: Verdana; sans-serif;
+		font-size: 10pt;
 		}
 
 		table {
@@ -29,6 +30,76 @@
 
 <h1>Alameda County 4H Camp</h1>
 
+<h2>CAMP BELONGS TO EACH OF US<h2>
+....... And these are the general rules:
+
+-	Alameda County 4-H Code of Conduct will be enforced for all. 
+-	Everyone is expected to treat others with respect.
+-	No males in girls camp
+-	No females in boys camp.
+-	Anyone possessing or ingesting drugs or alcohol will be sent 
+	home immediately.
+-	All camp policies are posted on the bulletin board if you 	
+	wish to review.
+-	Clothing which is overly revealing or containing suggestive 
+	slogans is NOT acceptable at camp.
+-	Electronic devices are not permitted (Las Posadas is an outdoor nature camp).
+-	Obscene or discriminatory language (even by those of that 
+	race) will not be tolerated.
+-	Insubordination will not be tolerated.
+-	Hands off other people’s possessions unless you have their 
+	permission.
+-	Unkind practical jokes or pranks are not acceptable.
+-	Telephone is for ‘EMERGENCY USE ONLY’ discuss with 
+	Coordinators.
+-	Camp stereo will be used for “wake-up” and evening dances 
+	only.
+-	No sandals, platforms or open-toed shoes to be worn in camp.
+-	No standing on tables.
+-	No sitting on dining area railings.
+-	No food, candy, snacks In girls or boys camp due to animal 
+	invasions.
+-	No electric curling irons, hair dryers or other electrical 
+	appliances.
+-	All medications must be given to Nurse and administered in 
+	the First Aid building.
+-	Observe the special rules of the basketball area.
+-	No one is allowed to leave the dining area after dark.
+-	Camp Coordinators will orient on-site regarding any camp 
+	problems or animals.
+-	All games on deck stop when the KP bell rings.
+-	Laundry machine is for the use of cooking staff only.
+
+
+
+<h3>DEFINITION OF CAMPING (American Camping Association)<h3>
+	Camping is a sustained experience which provides a creative educational and recreational opportunity in group living in the out-of-doors. It utilizes trained leadership and the resources of the natural surroundings to contribute to each campers mental, physical, social and spiritual growth.
+
+<h3>ALAMEDA COUNTY 4H CAMP GOALS:</h3>
+	-	to provide opportunities to experience personal growth in self-
+		confidence and self-esteem,
+	-	to develop an awareness, appreciation and understanding of the Los Posadas natural environment, including a concern for conservation and stewardship.
+	-	to develop new friends and create lasting friendships.
+	-	to develop a program that make fun a priority.
+	-	to provide outstanding learning opportunities.
+	-	to develop opportunities for everyone to learn and practice leadership skills.
+	-	to model group living skills in a healthy and safe environment.
+
+<h3>OBJECTIVES TO REACH THOSE GOALS</h3>
+	-	Each camper will participate in at least 5 workshops involving science and/or nature to experience growth and awareness.
+	-	Each camper will participate in a minimum of 3 activities to sensitize and increase their awareness of ecology and environment.
+	-	Each camp participant in the 9th grade (during camp staff training year) or above will have the opportunity to practice leadership skills through recreational leadership, activity leadership and/or tribe leadership.
+	-	An emotionally and physically safe environment wilt be provided throughout camp session.
+	-	All staff shalt work together as a “Leadership Team”. This team includes:  Teen staff, Adult Coordinators, Camp Administrator, and 4-H Staff.
+
+<h3>PURPOSE OF SUMMER CAMP:</h3> 
+	The purpose of Alameda County 4-H Summer Camp is to provide an outdoor setting for group living where young people can design a program to meet the needs of all youth. The camp experience will provide an opportunity for all participants to gain a deeper understanding of their relationships to all people and their natural environment.
+
+	The core of the Alameda  County 4-H camp education program is to empower young people to share as partners in decision making, camp planning and implementation, and camp leadership on a day-to-day basis.
+	
+
+
+
 <h2>Workshop Schedule</h2>
 <table>
 	<th>
@@ -43,7 +114,7 @@
 		<td>{{tribe6}} & {{tribe5}}</td>
 		<td>{{tribe3}} & {{tribe10}}</td>
 		<td>{{tribe7}} & {{tribe1}}</td>
-		<td>{{tribe2}} & {{tribe7}}</td>
+		<td>{{tribe2}} & {{tribe8}}</td>
 		<td>{{tribe9}} & {{tribe4}}</td>
 	</tr>
 	<tr>
@@ -149,7 +220,7 @@ First Event: Tribe Meeting
 5:45	Flag lowering @ Flagpole
 6:00	Dinner - (Tribe Dinner)
 8:00	Welcome Campfire - (Staff)
-		Carnival
+	Carnival
 10:00	End of Evening
 10:30	Lights out for the first day at camp
 	(leave a white flag--like a sock--by your bed if you want to be woken for early morning hike or swim)
@@ -164,8 +235,8 @@ MONDAY
 7:30	KP - ({{ tribe3 }} & {{ tribe4 }})
 7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - (Tribe Breakfast)
-		John Duty - ({{ tribe7 }} & {{ tribe8 }}) 
-		Campfire prep time - ({{ tribe5 }} & {{ tribe6 }})
+	John Duty - ({{ tribe7 }} & {{ tribe8 }}) 
+	Campfire prep time - ({{ tribe5 }} & {{ tribe6 }})
 9:30	Fire Drill (Hand out t-shirts after)
 10:00	Workshop #1 - (See Schedule)
 11:45	KP - ({{ tribe3 }} & {{ tribe4 }})
@@ -177,9 +248,9 @@ MONDAY
 5:30	KP - ({{ tribe3 }} & {{ tribe4 }})
 5:45	Flag lowering @ Flagpole
 6:00	Dinner
-		Bunk time until campfire
+	Bunk time until campfire
 7:30	Campfire - ({{ tribe5 }} & {{ tribe6 }})
-		Camp Dance
+	Camp Dance
 10:00	End of Evening
 10:30	Lights out
 	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
@@ -195,22 +266,22 @@ TUESDAY - VISITOR DAY
 7:45	KP - ({{ tribe5 }} & {{ tribe9 }})
 8:00	Flag raising ceremony @ Flagpole
 8:15	Breakfast - (Tribe Breakfast) 
-		John Duty - ({{ tribe6 }} & {{ tribe4 }})
-		Campfire prep time - ({{ tribe3 }} & {{ tribe10 }})
-		Meet your tribe for workshops
+	John Duty - ({{ tribe6 }} & {{ tribe4 }})
+	Campfire prep time - ({{ tribe3 }} & {{ tribe10 }})
+	Meet your tribe for workshops
 10:00	Workshop #2 - (See Schedule)
 11:45	KP - ({{ tribe5 }} & {{ tribe9 }})
 12:00	Lunch - Visitor Lunch
 1:30	Quiet time - Visitors Tour Camp
 2:30	Tribe meeting - Carnival plans, and preview track meet
 3:30	Water Carnival @ Pool
-		Free swim time
+	Free swim time
 5:30	KP - ({{ tribe5 }} & {{ tribe9 }})
 5:45	Flag lowering @ Flagpole
 6:00	Dinner - (Tribe Dinner)
-		Bunk time until campfire
+	Bunk time until campfire
 7:30	Campfire - ({{ tribe3 }} & {{tribe10}})
-		Night Hikes and Activities
+	Night Hikes and Activities
 10:00	End of Evening
 10:30	Lights out
 	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
@@ -226,9 +297,9 @@ WEDNESDAY
 7:30	KP - ({{ tribe6 }} & {{ tribe7 }})
 7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - (Tribe Breakfast)
-		John Duty - ({{ tribe1 }} & {{ tribe3 }})
-		Campfire prep time - ({{ tribe2 }} & {{ tribe8 }})
-		Meet your tribe for workshops
+	John Duty - ({{ tribe1 }} & {{ tribe3 }})
+	Campfire prep time - ({{ tribe2 }} & {{ tribe8 }})
+	Meet your tribe for workshops
 9:15	Workshop #3 - (See Schedule)
 10:45	Workshop #4 - (See Schedule)
 12:15	KP - ({{ tribe6 }} & {{ tribe7 }})
@@ -236,13 +307,13 @@ WEDNESDAY
 1:30	Quiet time
 2:00	Tribe meeting
 2:30	Crazy Track Meet @ Dining Hall
-		Free time
+	Free time
 5:15	KP (Staff)
 5:45	Flag lowering @ Flagpole
 6:00	Dinner - Formal Night
-		Bunk time until campfire
+	Bunk time until campfire
 7:30	Campfire ({{tribe2}} & {{tribe8}})
-		The Big Dance 
+	The Big Dance 
 10:00	End of Evening
 10:30	Lights out
 	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
@@ -258,24 +329,25 @@ THURSDAY
 7:30	KP - ({{ tribe10 }} & {{ tribe8 }})
 7:45	Flag raising ceremony @ Flagpole
 8:00	Breakfast - Come as you are!!!
-		John Duty - ({{ tribe2 }} & {{ tribe9 }})
-		Campfire prep time - ({{ tribe1 }} & {{ tribe7 }})
-		Meet your tribe for workshops
+	John Duty - ({{ tribe2 }} & {{ tribe9 }})
+	Campfire prep time - ({{ tribe1 }} & {{ tribe7 }})
+	Meet your tribe for workshops
+9:45 Workshop #5 - (See Schedule)
 11:30	KP - ({{ tribe10 }} & {{ tribe8 }})
-		Tribes depart for Forest Retreat
+	Tribes depart for Forest Retreat
 12:45	Lunch @ Forest Retreat
 2:30	Quiet time
 3:30	Tribe meeting - Finish scavenger hunt, friendship boat
 4:30	Scavenger hunt items due on deck
-		Free time
+	Free time
 5:15	Friendship boats due at pool
 5:30	KP - ({{ tribe10 }} & {{ tribe8 }})
 5:45	Flag lowering @ Flagpole
 6:00	Dinner (Tribe dinner)
-		Bunk time until campfire
+	Bunk time until campfire
 7:30	Campfire - ({{ tribe1 }} & {{ tribe7 }})
-		Friendship ceremony @ Pool
-		Music and dancing
+	Friendship ceremony @ Pool
+	Music and dancing
 10:00	End of Evening
 10:30	Lights out
 	(leave a white flag by your bed if you want to be woken for early morning hike or swim)
@@ -292,10 +364,10 @@ FRIDAY
 8:15	KP - ({{tribe1}} & {{ tribe2 }})
 8:30	Flag raising ceremony @ Flagpole
 8:45	Breakfast - (Tribe Breakfast)
-		John Duty - ({{ tribe5 }} & {{ tribe10 }})
-		Campfire prep time - ({{tribe4}} & {{tribe9}})
+	John Duty - ({{ tribe5 }} & {{ tribe10 }})
+	Campfire prep time - ({{tribe4}} & {{tribe9}})
 9:15	Finish packing
-		Carry possessions to luggage trucks
+	Carry possessions to luggage trucks
 11:00	Campfire ({{ tribe4 }} & {{ tribe9 }})	
 11:30	Closing Ceremony
 12:45	KP - ({{tribe1}} & {{ tribe2 }})
@@ -303,7 +375,7 @@ FRIDAY
 2:00	Time to clean-up Las Posadas 4-H Camp
 3:00	Depart for home!
 
-		Camp Staff clean-up
+	Camp Staff clean-up
 
 </pre>
 </body>
